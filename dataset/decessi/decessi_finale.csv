@@ -1,0 +1,73 @@
+nome_malattia,numero_decessi_maschi,numero_decessi_femmine,anno,id_provincia
+malattie dell'apparato digerente,138,162,2019,75
+malattie dell'apparato digerente,163,169,2020,75
+tumori,1345,1011,2019,75
+tumori,1356,1004,2020,75
+malattie del sistema respiratorio,466,374,2019,75
+malattie del sistema respiratorio,447,360,2020,75
+malattie del sistema nervoso e degli organi di senso,161,208,2019,75
+malattie del sistema nervoso e degli organi di senso,221,228,2020,75
+"malattie endocrine, nutrizionali e metaboliche",162,230,2019,75
+"malattie endocrine, nutrizionali e metaboliche",197,292,2020,75
+malattie del sistema circolatorio,1267,1742,2019,75
+malattie del sistema circolatorio,1295,1741,2020,75
+malattie dell'apparato digerente,76,72,2019,74
+malattie dell'apparato digerente,85,73,2020,74
+tumori,629,501,2019,74
+tumori,628,446,2020,74
+malattie del sistema respiratorio,205,137,2019,74
+malattie del sistema respiratorio,193,159,2020,74
+malattie del sistema nervoso e degli organi di senso,90,114,2019,74
+malattie del sistema nervoso e degli organi di senso,100,124,2020,74
+"malattie endocrine, nutrizionali e metaboliche",101,116,2019,74
+"malattie endocrine, nutrizionali e metaboliche",107,133,2020,74
+malattie del sistema circolatorio,635,807,2019,74
+malattie del sistema circolatorio,639,861,2020,74
+malattie dell'apparato digerente,79,73,2019,110
+malattie dell'apparato digerente,64,66,2020,110
+tumori,549,405,2019,110
+tumori,552,432,2020,110
+malattie del sistema respiratorio,159,120,2019,110
+malattie del sistema respiratorio,180,120,2020,110
+malattie del sistema nervoso e degli organi di senso,76,94,2019,110
+malattie del sistema nervoso e degli organi di senso,86,97,2020,110
+"malattie endocrine, nutrizionali e metaboliche",81,112,2019,110
+"malattie endocrine, nutrizionali e metaboliche",107,139,2020,110
+malattie del sistema circolatorio,537,602,2019,110
+malattie del sistema circolatorio,524,659,2020,110
+malattie dell'apparato digerente,129,112,2019,71
+malattie dell'apparato digerente,119,116,2020,71
+tumori,905,683,2019,71
+tumori,919,705,2020,71
+malattie del sistema respiratorio,217,179,2019,71
+malattie del sistema respiratorio,261,207,2020,71
+malattie del sistema nervoso e degli organi di senso,139,149,2019,71
+malattie del sistema nervoso e degli organi di senso,150,154,2020,71
+"malattie endocrine, nutrizionali e metaboliche",177,266,2019,71
+"malattie endocrine, nutrizionali e metaboliche",203,282,2020,71
+malattie del sistema circolatorio,1030,1225,2019,71
+malattie del sistema circolatorio,1096,1383,2020,71
+malattie dell'apparato digerente,206,221,2019,72
+malattie dell'apparato digerente,229,177,2020,72
+tumori,1826,1443,2019,72
+tumori,1890,1416,2020,72
+malattie del sistema respiratorio,495,390,2019,72
+malattie del sistema respiratorio,474,380,2020,72
+malattie del sistema nervoso e degli organi di senso,309,385,2019,72
+malattie del sistema nervoso e degli organi di senso,333,387,2020,72
+"malattie endocrine, nutrizionali e metaboliche",289,375,2019,72
+"malattie endocrine, nutrizionali e metaboliche",352,472,2020,72
+malattie del sistema circolatorio,1781,2139,2019,72
+malattie del sistema circolatorio,1857,2316,2020,72
+malattie dell'apparato digerente,115,114,2019,73
+malattie dell'apparato digerente,110,98,2020,73
+tumori,931,695,2019,73
+tumori,887,683,2020,73
+malattie del sistema respiratorio,313,220,2019,73
+malattie del sistema respiratorio,264,190,2020,73
+malattie del sistema nervoso e degli organi di senso,113,134,2019,73
+malattie del sistema nervoso e degli organi di senso,136,140,2020,73
+"malattie endocrine, nutrizionali e metaboliche",145,200,2019,73
+"malattie endocrine, nutrizionali e metaboliche",161,202,2020,73
+malattie del sistema circolatorio,944,1146,2019,73
+malattie del sistema circolatorio,986,1259,2020,73

@@ -1,0 +1,3 @@
+sigla,nome,soglia_media_giornaliera,giorni_superamento,soglia_media_annuale
+PM2.5,Particolato PM2.5,10,4,25
+PM10,Particolato PM10,20,4,50
