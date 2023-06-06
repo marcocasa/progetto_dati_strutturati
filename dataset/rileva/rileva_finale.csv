@@ -1,113 +1,112 @@
 nome_stazione,sigla_indicatore
-Fanin,PM2.5
-I.T.C. De Castro,PM2.5
-Terminal Passeggeri,PM2.5
-LaPenna,PM2.5
-CISI,PM2.5
-Cavour,PM2.5
-Via Santeramo,PM2.5
-Aldo Moro,PM2.5
-Casardi,PM2.5
-Rosati,PM2.5
-Casale,PM2.5
-Liceo Artistico Russo,PM2.5
-Don Minzoni,PM2.5
-Vaccina,PM2.5
-Mezzo Mobile Via Trani,PM2.5
-IperCoop,PM2.5
-Machiavelli,PM2.5
-Azienda Russo,PM2.5
-EN01,PM2.5
-Cerrate,PM2.5
-Via Taranto,PM2.5
-Libertini,PM2.5
-Pitagora,PM2.5
-Alto Adige,PM2.5
-Caldarola,PM2.5
-Via Martina,PM2.5
-Archimede,PM2.5
-EN02,PM2.5
-Municipio,PM2.5
-I.T.C. Costa,PM2.5
-Colacem,PM2.5
 I.T.C. La Porta,PM2.5
-Garigliano,PM2.5
+Mezzo Mobile Via Trani,PM2.5
+Casardi,PM2.5
+Terminal Passeggeri,PM2.5
+I.T.C. De Castro,PM2.5
+Cavour,PM2.5
+Via Martina,PM2.5
+Vaccina,PM2.5
+Machiavelli,PM2.5
+Alto Adige,PM2.5
+Municipio,PM2.5
+EN01,PM2.5
+I.T.C. Costa,PM2.5
+Via Santeramo,PM2.5
+Casale,PM2.5
+Rosati,PM2.5
+Via Taranto,PM2.5
+Liceo Artistico Russo,PM2.5
+Pitagora,PM2.5
+Don Minzoni,PM2.5
+Archimede,PM2.5
+CISI,PM2.5
+LaPenna,PM2.5
+Fanin,PM2.5
 Posta del Principe,PM2.5
-San Vito,PM10
-Stazione,PM10
-Casardi,PM10
-Croce,PM10
-Deledda,PM10
-De Santis,PM10
-Casale,PM10
-Japigia,PM10
-Vaccina,PM10
-Machiavelli,PM10
-Politecnico,PM10
-Villa Baldassarri,PM10
-Via vecchia San Pietro in Lama,PM10
-Cap. di porto,PM10
-Archimede,PM10
-Fanin,PM10
-Terminal Passeggeri,PM10
-Perrino,PM10
-STANIC,PM10
-Cavour,PM10
-Via Santeramo,PM10
-Aldo Moro,PM10
-Rosati,PM10
-Ungaretti,PM10
-SISRI,PM10
-Bozzano,PM10
-Via Taranto,PM10
-Libertini,PM10
-Scuola,PM10
-Carbonara,PM10
-Talsano,PM10
-EN02,PM10
-Frappietri,PM10
-Stadio,PM10
-Posta del Principe,PM10
-LaPenna,PM10
-Wind,PM10
-ASM,PM10
-CISI,PM10
-Magna Grecia,PM10
-Riesci,PM10
-Ex Comes,PM10
-Croce,PM10
-Mezzo Mobile Via Trani,PM10
-XXV Luglio,PM10
-Palio,PM10
-Cerrate,PM10
-Kennedy,PM10
-Via Martina,PM10
-ENAIP,PM10
-Filzi,PM10
-Municipio,PM10
-EN04,PM10
-Lendinuso,PM10
-I.T.C. Costa,PM10
-S. Barbara,PM10
+Libertini,PM2.5
+Cerrate,PM2.5
+EN02,PM2.5
+IperCoop,PM2.5
+Colacem,PM2.5
+Aldo Moro,PM2.5
+Caldarola,PM2.5
+Garigliano,PM2.5
+Azienda Russo,PM2.5
 I.T.C. La Porta,PM10
+Mezzo Mobile Via Trani,PM10
 Giorgilorio,PM10
-EN05,PM10
-Mandorli,PM10
-CUS,PM10
-Cappuccini,PM10
-Michelangelo,PM10
-Liceo Artistico Russo,PM10
-Don Minzoni,PM10
-IperCoop,PM10
-Sorgenti,PM10
-Azienda Russo,PM10
-EN01,PM10
-Mille,PM10
-Caldarola,PM10
-Via Udine,PM10
-EN03,PM10
-CIAPI,PM10
-Colacem,PM10
-Garigliano,PM10
-Verdi,PM10
+Casardi,PM10
+Cap. di porto,PM10
+Via Martina,PM10
+Machiavelli,PM10
 Alto Adige,PM10
+Filzi,PM10
+Via Santeramo,PM10
+Casale,PM10
+Via Taranto,PM10
+Talsano,PM10
+Japigia,PM10
+CUS,PM10
+Verdi,PM10
+STANIC,PM10
+Libertini,PM10
+Cerrate,PM10
+EN02,PM10
+Caldarola,PM10
+De Santis,PM10
+EN05,PM10
+Ex Comes,PM10
+I.T.C. Costa,PM10
+Frappietri,PM10
+CIAPI,PM10
+Lendinuso,PM10
+Croce,PM10
+CISI,PM10
+LaPenna,PM10
+Posta del Principe,PM10
+San Vito,PM10
+IperCoop,PM10
+Mandorli,PM10
+Colacem,PM10
+Aldo Moro,PM10
+Garigliano,PM10
+Sorgenti,PM10
+Michelangelo,PM10
+Scuola,PM10
+Terminal Passeggeri,PM10
+Stadio,PM10
+Cavour,PM10
+Stazione,PM10
+Bozzano,PM10
+EN01,PM10
+Rosati,PM10
+Don Minzoni,PM10
+Archimede,PM10
+Deledda,PM10
+Fanin,PM10
+XXV Luglio,PM10
+ENAIP,PM10
+EN04,PM10
+Wind,PM10
+Palio,PM10
+S. Barbara,PM10
+Ungaretti,PM10
+Magna Grecia,PM10
+SISRI,PM10
+Vaccina,PM10
+Carbonara,PM10
+Cappuccini,PM10
+ASM,PM10
+Municipio,PM10
+Kennedy,PM10
+Liceo Artistico Russo,PM10
+Mille,PM10
+Via Udine,PM10
+Riesci,PM10
+EN03,PM10
+Politecnico,PM10
+Via vecchia San Pietro in Lama,PM10
+Perrino,PM10
+Villa Baldassarri,PM10
+Azienda Russo,PM10
